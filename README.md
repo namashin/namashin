@@ -5,10 +5,11 @@ I am currently living in Shanghai, China, pursuing a Master’s degree in Softwa
 I have a solid background in software development and a passion for new technology. I aim to leverage my skills to contribute to innovative projects and solutions as a software engineer specializing in Golang.
 
 ## 📫 Contact
+[My Resume Site](https://namashin.github.io/en/)
+
 - **Email:** [changyuanshengzhen@icloud.com](mailto:changyuanshengzhen@icloud.com)
 - **LinkedIn:** [https://www.linkedin.com/in/namashin/](https://www.linkedin.com/in/namashin/)
-- **Resume:** [Download My Resume](./resume-en.pdf)
-
+  
 ## 🎓 Education Background
 - [Shanghai International Studies University](https://www.shisu.edu.cn/)  
   Bachelor of Arts Graduated in 2021, GPA: 3.4/4.0
