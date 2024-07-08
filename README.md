@@ -1,8 +1,10 @@
-# 👋 Hello, I'm Ikuma
+# 👋 Hai
 
-I am currently living in Shanghai, China, pursuing a Master’s degree in Software Engineering at East China Normal University, expected to graduate in 2026.
+I am currently living in Shanghai, China, pursuing a Master’s degree
+in Software Engineering at East China Normal University, expected to graduate in 2026.
 
-I have a solid background in software development and a passion for new technology. I aim to leverage my skills to contribute to innovative projects and solutions as a software engineer specializing in Golang.
+I have a solid background in software development and a passion for new technology. 
+I aim to leverage my skills to contribute to innovative projects and solutions as a software engineer specializing in Golang.
 
 ## 📫 Contact
 [My Resume Site](https://namashin.github.io/en/)
@@ -53,4 +55,4 @@ I have a solid background in software development and a passion for new technolo
 
 **After graduation in 2026, I can relocate for on-site work immediately.**
 
-Thank you for visiting my profile!
+Thank you!
