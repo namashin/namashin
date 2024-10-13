@@ -1,4 +1,4 @@
-🌱 I’m currently pursuing a Master’s degree in Software Engineering at East China Normal University in Shanghai, China (M2).
+🌱 I’m currently pursuing a Master’s degree in Software Engineering in Shanghai, China (M2).
 
 ## 📫 Contact
 - **My Site:** [https://namashin.github.io/en/](https://namashin.github.io/en/)
@@ -17,8 +17,8 @@
 - **TypeScript** (React)
 
 ### Server Technologies
-- **Golang** (Gin, echo)
-- **Python** (Django, Flask, REST-API)
+- **Golang** (Gin)
+- **Python** (Django, REST-API)
   
 ### Tools & Platforms
 - **Git & GitHub**
