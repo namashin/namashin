@@ -18,7 +18,7 @@
 
 ### Server Technologies
 - **Golang** (Gin)
-- **Python** (Django, REST-API)
+- **Python** (Django)
   
 ### Tools & Platforms
 - **Git & GitHub**
@@ -30,4 +30,4 @@
 ## 🌐 Languages
 - **Japanese:** Native
 - **English:** Fluent
-- **Chinese:** Fluent (HSK Level 6)
+- **Chinese:** Fluent
