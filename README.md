@@ -14,7 +14,7 @@
 
 ### Web Development
 - **JavaScript**
-- **TypeScript** (React)
+- **TypeScript**
 
 ### Server Technologies
 - **Golang** (Gin)
