@@ -9,17 +9,14 @@
 ### Programming Languages
 - **Golang**
 - **Python**
-- **C#（.NET）**
+- **C#**
 - **SQL**
 
-### Web Development
-- **JavaScript**
-- **TypeScript**
+### Frameworks ###
+- Gin
+- Django
+- .NET
 
-### Server Technologies
-- **Golang** (Gin)
-- **Python** (Django)
-  
 ### Tools & Platforms
 - **Git & GitHub**
 - **Docker**
