@@ -23,6 +23,7 @@
 
 ### Other Technologies
 - **TCP/IP** (Network Programming, Socket Programming)
+- **Machine Learning**
 
 ## 🌐 Languages
 - **Japanese:** Native
