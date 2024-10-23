@@ -22,8 +22,9 @@
 - **Docker**
 
 ### Other Technologies
-- **TCP/IP** (Network Programming, Socket Programming)
+- **TCP / IP** (Network Programming, Socket Programming)
 - **Machine Learning**
+- **JQuery**
 
 ## 🌐 Languages
 - **Japanese:** Native
