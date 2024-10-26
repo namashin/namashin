@@ -15,6 +15,7 @@
 ### Frameworks ###
 - Gin
 - Django
+- Flask
 - .NET
 
 ### Tools & Platforms
